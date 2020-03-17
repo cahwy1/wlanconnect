@@ -18,7 +18,7 @@
 
 static bool bScanWait = true;
 
-//bydu
+//Branch bydu
 //Callback function for notification of wireess LAN
 static void WlanNotification(WLAN_NOTIFICATION_DATA *wlanNotifData, VOID *p)
 {
